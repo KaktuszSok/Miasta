@@ -11,5 +11,5 @@ Game in Builds folder - Miasta.exe
 Code in Assets/Scripts/
 
 It's possible to build on the map using the buttons on top but you need sufficient resources.
-To cheat in all resources, press Ctrl + A or ` + A if in the Unity Editor.
-Ctrl + S (or ` + S in unity editor) to save.
+To cheat in all resources, press Ctrl + A or \` + A if in the Unity Editor.
+Ctrl + S (or \` + S in unity editor) to save.
