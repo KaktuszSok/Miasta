@@ -1,0 +1,18 @@
+{
+	"name": "Mand_0",
+	"tickRate": 20.0,
+	"RandomTickRate": 250,
+	"fertOptimalTemperature": 25,
+	"fertDropPerDegree": 18,
+	"tempAtSeaLevel": 25.25,
+	"tempDropPerMetre": 0.009999999776482582,
+	"elv_seaLevel": 400.0,
+	"elv_altitudeScale": 10.0,
+	"fert_FloraChange0": -96,
+	"fert_FloraChange255": 96,
+	"flora0_startLifetime": 64,
+	"flora0_startLifetimeRandom": 12,
+	"flora0_spreadChance": 0.699999988079071,
+	"flora0_minSpreadDensity": 32,
+	"flora0_childDensityMult": 0.20000000298023225
+}
